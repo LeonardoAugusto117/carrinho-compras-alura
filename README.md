@@ -20,3 +20,8 @@ O projeto conta com funções para adicionar produtos ao carrinho e limpar o car
 
 📌 Objetivo:
 Praticar conceitos básicos de JavaScript, como funções, variáveis, cálculos, eventos e atualização dinâmica do conteúdo na tela.
+
+
+# Link do site no vercel
+
+https://carrinho-compras-alura-kappa.vercel.app
